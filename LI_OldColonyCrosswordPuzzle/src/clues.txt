@@ -1,0 +1,9 @@
+0:10:v:1:Cornell:Clayton
+1:1:h:2:Rigby:Brody
+1:4:v:3:Barnes:Steven
+4:3:h:5:Ingerslev:Landen
+2:7:v:4:Furtado:Trevor
+6:0:h:6:Peets:Mason
+8:2:h:7:Sergio:Anthony
+8:2:v:7:Shea:Cornelius
+11:1:h:8:Sassin:Nadeem
