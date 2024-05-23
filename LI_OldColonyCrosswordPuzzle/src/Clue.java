@@ -5,6 +5,7 @@ public class Clue {
     private final int clueNum;
     private final String firstName;
     private final String lastName;
+
     public Clue(int x, int y, char direction, int clueNum, String firstName, String lastName) {
         this.x = x;
         this.y = y;
