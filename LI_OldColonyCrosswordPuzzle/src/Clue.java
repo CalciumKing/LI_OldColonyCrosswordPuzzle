@@ -6,6 +6,7 @@ public class Clue {
     private final String firstName;
     private final String lastName;
 
+    // A constructor creating a Clue object with all the necessary information
     public Clue(int x, int y, char direction, int clueNum, String firstName, String lastName) {
         this.x = x;
         this.y = y;
@@ -15,6 +16,7 @@ public class Clue {
         this.lastName = lastName;
     }
 
+    // Getters to allow all files to access all the Clue private variables
     public int getX() {
         return x;
     }
